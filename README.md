@@ -1,0 +1,1 @@
+AWS Solutions Architect Associate study notes and hands-on labs — covering VPC, EC2, IAM, S3, Route 53, ALB, Auto Scaling, hybrid connectivity, high availability architecture, and cloud security fundamentals with real lab documentation.
